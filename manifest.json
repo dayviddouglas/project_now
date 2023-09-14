@@ -35,8 +35,8 @@
     {
       "src": "assets/img/icons/196.png",
       "sizes": "196x196",
-      "type": "image/png",
-	  "purpose": "any maskable"
+      "type": "image/png"
+	  
     },
   
     {
