@@ -1,6 +1,6 @@
 {
   "name": "Project Now",
-  "short_name": "ProjectN",
+  "short_name": "PN",
   "icons": [
     {
       "src": "assets/img/icons/120.png",
@@ -35,7 +35,8 @@
     {
       "src": "assets/img/icons/196.png",
       "sizes": "196x196",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
 	  
     },
   
@@ -48,12 +49,8 @@
       "src": "assets/img/icons/512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "assets/img/icons/1024.png",
-      "sizes": "1024x1024",
-      "type": "image/png"
     }
+   
   ],
 
   "start_url": "index.html",
